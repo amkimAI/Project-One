@@ -1,0 +1,36 @@
+{
+  "bloodTypes": {
+    "A": {
+      "image": "https://img.icons8.com/color/96/blood-type-a.png",
+      "meats": { "chicken": "Neutral", "beef": "Avoid", "pork": "Avoid" },
+      "vegetables": ["Broccoli", "Spinach", "Garlic", "Onions"],
+      "fruits": ["Blueberries", "Figs", "Pineapple"],
+      "carbs": ["Rice", "Buckwheat", "Oat Flour"],
+      "insight": "Type A thrives on a Mediterranean-style plant-based diet. High cortisol levels are common, so calming foods are key."
+    },
+    "B": {
+      "image": "https://img.icons8.com/color/96/blood-type-b.png",
+      "meats": { "chicken": "Avoid", "beef": "Neutral", "pork": "Avoid" },
+      "vegetables": ["Beets", "Cabbage", "Carrots", "Peppers"],
+      "fruits": ["Bananas", "Grapes", "Plums"],
+      "carbs": ["Oatmeal", "Rice Bran", "Millet"],
+      "insight": "Type B is 'The Nomad.' You have a strong immune system but should avoid chicken and corn which contain harmful lectins for your type."
+    },
+    "AB": {
+      "image": "https://img.icons8.com/color/96/blood-type-ab.png",
+      "meats": { "chicken": "Neutral", "beef": "Avoid", "pork": "Avoid" },
+      "vegetables": ["Tofu", "Kale", "Celery", "Cucumber"],
+      "fruits": ["Cherries", "Kiwi", "Lemons"],
+      "carbs": ["Rice", "Spelt", "Oats"],
+      "insight": "The rarest type. You have Type A's low stomach acid but Type B's adaptation to meats. Focus on smaller, frequent meals."
+    },
+    "O": {
+      "image": "https://img.icons8.com/color/96/blood-type-o.png",
+      "meats": { "chicken": "Neutral", "beef": "Beneficial", "pork": "Avoid" },
+      "vegetables": ["Kale", "Onions", "Seaweed", "Okra"],
+      "fruits": ["Plums", "Prunes", "Figs"],
+      "carbs": ["Ezekiel Bread", "Essene Bread"],
+      "insight": "The 'Hunter.' High stomach acid allows for efficient meat digestion. Avoid wheat and dairy to prevent inflammation."
+    }
+  }
+}
